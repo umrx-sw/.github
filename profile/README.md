@@ -30,7 +30,7 @@ on your BST evaluation boards.
 * **cross-platform**: works on Linux, Mac, and Windows.
 
 ### 🛠️ Installation and Usage
-Install and try it out [`umrx-app-v3`](https://github.com/umrx-sw/umrx-v3-py) via pip:
+Install and try it out [`umrx-app-v3`](https://github.com/umrx-sw/umrx-v3-py) via [pip](https://pypi.org/project/umrx-app-v3/):
 
 ```bash
 pip install umrx-app-v3
